@@ -58,10 +58,9 @@ Video browsing and playback
 Responsive layout using Tailwind CSS
 
 📦 Available Scripts
-
+```bash
 npm start — Runs the app in development mode
 
 npm run build — Builds the app for production
-
-
+```
 Inspired by YouTube UI and built for educational purposes.
